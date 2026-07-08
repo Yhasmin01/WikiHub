@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📖 WikiHub — Repositório Central de Conhecimento
 
 Inserir mensagem de descrição*
