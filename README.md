@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 📖 WikiHub — Repositório Central de Conhecimento
 
-Repositório único, sem Pages, sem CI/CD — tudo em Markdown puro, lido direto pela interface do GitHub.
+Inserir mensagem de descrição*
 
 - Quer adicionar algo? Veja `CONTRIBUTING.md`.
 - Quer entender a estrutura completa? Veja `ESTRUTURA_REPOSITORIO.md`.
@@ -22,8 +22,3 @@ _Nenhum item cadastrado ainda._
 
 ## 🗂️ Outros
 _Nenhum item cadastrado ainda._
-
-<!-- INDEX:END -->
-=======
-# WikiHub
->>>>>>> e6bbaf09ff04b6619dbcfe4fef5ab42122b1dde2
